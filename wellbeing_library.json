@@ -1,0 +1,91 @@
+{
+    "sadness": [
+        "I'm really sorry you're feeling sad. It's okay to feel this way, and you're not alone.",
+        "Do you want to talk about what's making you sad? Sometimes sharing helps lighten the load.",
+        "Try doing one tiny comforting thing for yourself—a warm drink, music, or a quiet moment.",
+        "Sadness is a sign that something matters to you. Your emotions are valid.",
+        "Crying is not weakness—it's your body releasing pressure. Let it out if you need to."
+    ],
+    "stress": [
+        "Stress can build up fast. Try taking 3 slow deep breaths right now.",
+        "What exactly feels stressful today? Breaking it into smaller pieces can help.",
+        "You're doing the best you can with what you have. That's enough.",
+        "Try writing everything down. Sometimes your mind feels overwhelmed because it's holding too much.",
+        "Remember: you don't have to be productive every second. Rest is part of the process."
+    ],
+    "anxiety": [
+        "Anxiety can feel overwhelming, but it will pass. You are safe.",
+        "Try grounding: name 5 things you can see, 4 you can touch, 3 you can hear.",
+        "Put your hand on your chest and breathe slowly—your body listens to your breath.",
+        "Anxiety lies to you. Just because you feel scared doesn't mean something bad is happening.",
+        "Try the 4-7-8 breath: inhale 4 seconds, hold 7, exhale 8. Repeat 4 times."
+    ],
+    "panic_attack": [
+        "You’re okay. Panic attacks feel dangerous but they are not harmful.",
+        "Focus on one object around you. Describe its color, shape, texture.",
+        "Slow exhale > fast inhale. Try breathing out longer than you breathe in.",
+        "Tell yourself: 'This will pass. I’ve survived this before.'"
+    ],
+    "tiredness": [
+        "It sounds like your body needs rest. Have you been sleeping well lately?",
+        "Even a 10-minute break can help reset your energy.",
+        "Your exhaustion is valid. Rest is not laziness—it's recovery.",
+        "Try doing one small thing to reset: drink water, stretch, or close your eyes for a minute."
+    ],
+    "motivation": [
+        "You don’t need huge motivation—just a tiny start. Even 1% effort matters.",
+        "Focus on the next small step, not the whole mountain.",
+        "You’re allowed to have slow days. Progress is progress.",
+        "Remember why you started. That spark is still inside you.",
+        "You’ve pushed through hard days before—you’ll do it again."
+    ],
+    "mindfulness": [
+        "Pause. Take one slow breath. Notice the air entering and leaving your lungs.",
+        "Try observing your thoughts without judging them—let them pass like clouds.",
+        "Be where your feet are. Focus on the present moment.",
+        "Put your shoulders down. Release your jaw. Relax your face.",
+        "Try eating or drinking something slowly. Pay attention to the taste and temperature."
+    ],
+    "loneliness": [
+        "Feeling lonely doesn't mean you're unloved. It means you need connection, not that you're lacking worth.",
+        "Try reaching out to one person, even with a simple message.",
+        "Your feelings are real. Human beings are wired for connection.",
+        "Sometimes loneliness shows up even when we're surrounded by people—it's not your fault."
+    ],
+    "anger": [
+        "Anger is often a sign that your boundaries were crossed. Your feelings are valid.",
+        "Try taking a walk or moving your body—physical movement helps release stored anger.",
+        "Before reacting, take a slow breath. Responding calmly gives you more control.",
+        "Write down what made you angry. Seeing it on paper can give clarity."
+    ],
+    "burnout": [
+        "Burnout happens when you push yourself for too long without rest. It's not weakness.",
+        "Try doing something calming that isn't productive: music, shower, breathing.",
+        "Your worth is not measured by how much you get done.",
+        "One small pause today may prevent a bigger crash tomorrow."
+    ],
+    "selfcare": [
+        "Self-care isn’t always about luxury—it’s about listening to what your body and mind need.",
+        "Drink some water, stretch a little, and let yourself breathe.",
+        "You deserve moments of peace. It's not selfish to take care of yourself.",
+        "Try doing one simple thing that brings you comfort."
+    ],
+    "confidence": [
+        "You have overcome challenges before—remember that strength.",
+        "You don't need to be perfect to be worthy.",
+        "Confidence grows from small wins. Try taking one tiny step.",
+        "Talk to yourself like you would talk to someone you care about."
+    ],
+    "academic_stress": [
+        "Grades do not define your intelligence or your worth.",
+        "Try breaking your work into small pieces—your brain handles smaller tasks better.",
+        "You don’t have to finish everything today. Start with one tiny step.",
+        "It’s okay to take breaks. Your brain needs rest to learn effectively."
+    ],
+    "sleep": [
+        "Try going to bed at the same time each night—your body loves routine.",
+        "Limit screens for 20 minutes before sleep. Your mind will settle more easily.",
+        "A warm shower or dim lights can signal your brain to relax.",
+        "Rest is not something you earn—it’s something you need."
+    ]
+}
